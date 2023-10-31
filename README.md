@@ -1,0 +1,1 @@
+This project aims to develop an automated sentiment analysis system for restaurant reviews that can accurately classify reviews as positive, negative. providing valuable insights to restaurant owners and potential diners![image](https://github.com/nikeesrivastava/Sentiment-Analysis-of-Restaurant-Reviews-using-Machine-Learning/assets/113758323/15a66d56-de1a-4fef-936c-a954c140970b)
